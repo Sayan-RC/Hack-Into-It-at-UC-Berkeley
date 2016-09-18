@@ -1,5 +1,5 @@
 # Salary Predictor
-This project was completed at Intuit's 2nd annual hackathon "Hack Into It" at UC Berkeley, co-hosted by Machine Learning @ Berkeley and Phi Sigma Rho. 
+This team project was completed at Intuit's 2nd annual hackathon "Hack Into It" at UC Berkeley, co-hosted by Machine Learning @ Berkeley and Phi Sigma Rho. Contributers to the project were: Sayan Ray Chaudhuri, Lawrence Yan, Mong Ng, and Jonathon Lin
 
 Salary predictor is a command line tool helps college graduates determine their expected job salary based on their prospective career field and geographical location. By comparing expected job salaries, the user should be able to determine the career field and job location that meet their salary interests.
 
