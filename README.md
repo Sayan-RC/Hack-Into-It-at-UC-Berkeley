@@ -1,5 +1,5 @@
-# Salary Predictor
-Salary predictor is a command line tool helps college graduates determine their expected job salary based on their prospective career field and geographical location. By comparing expected job salaries, the user should be able to determine the career field and job location that meet their salary interests.
+# Celery - The Salary Predictor
+Celery is a command line tool helps college graduates determine their expected job salary based on their prospective career field and geographical location. By comparing expected job salaries, the user should be able to determine the career field and job location that meet their salary interests.
 
 First, the user is asked to input their career field of interest and the state where they want to live by entering numbers from list menus. Then, based on the inputs, we access US Census data for the given career field and state, which returns the median salary of employees working in the career field and state.
 
